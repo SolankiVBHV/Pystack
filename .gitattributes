@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-Pystack/collab_ocata/home/static/home/* linguist-vendored
+*.rb linguist-language=Python
